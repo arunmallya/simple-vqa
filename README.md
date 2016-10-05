@@ -82,9 +82,8 @@ th eval.lua -eval_split (train/val/test-dev/test-final) \
 
 This will dump the results in checkpoint/ as a .json file as well as a results.zip file in case of test-dev and test-final. This results.zip can be uploaded to CodaLab for evaluation.
 
-## Training from scratch
+## Training MLP from scratch
 
-### MLP/multiMLP from scratch
 ```
 th train.lua -im_feat_types imagenet -im_feat_dims 2048
 ```
