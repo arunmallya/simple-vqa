@@ -58,7 +58,7 @@ git clone --recursive https://github.com/arunmallya/simple-vqa.git
 
 * Download the Word2Vec model file from [here](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit). This is needed to encode sentences into vectors. Place the .bin file in the data/models folder.
 
-* Download cached features for the VQA dataset splits, unzip them, and place them in data/feats: [features]() 
+* Download cached features for the VQA dataset splits, unzip them, and place them in data/feats: [features](https://uofi.box.com/s/tewogy0c1de9pq0v26lbum9495az247q) 
 
 * Download [VQA lite annotations](https://uofi.box.com/s/bz0ttp9bowz83xa3i40ieqfbd5r60e04) and place then in data/vqa/Annotations/. These are required because the original VQA annotations do not fit in the 2GB limit of luajit.
 
