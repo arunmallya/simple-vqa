@@ -1,0 +1,6 @@
+[submodule "external/th-utils"]
+	path = external/th-utils
+	url = https://github.com/arunmallya/th-utils.git
+[submodule "external/fb.resnet.torch"]
+	path = external/fb.resnet.torch
+	url = https://github.com/facebook/fb.resnet.torch.git
